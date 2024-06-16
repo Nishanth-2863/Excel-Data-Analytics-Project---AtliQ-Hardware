@@ -1,4 +1,4 @@
-**AtliQ Hardware Sales & Finance Analysis** 📊💼
+**Excel Project : AtliQ Hardware Sales & Finance Analysis** 📊💼
 
 ## Table of Contents
 - [Project Objective](#project-objective)
